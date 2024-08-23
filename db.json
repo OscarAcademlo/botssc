@@ -1,15 +1,15 @@
 [
   {
-    "ref": "21e56970-efd3-44c5-ac74-49cb4c37d302",
-    "keyword": "a8afa9408c63f1fd7cb11a9be144e2a5",
-    "answer": "T",
+    "ref": "f14c7d8d-56e0-4b3d-8628-30fa7fdb5319",
+    "keyword": "0082c95c9d95ac62df65d20a629b923f",
+    "answer": "Y",
     "options": {},
     "from": "5492944651381",
-    "refSerialize": "a8afa9408c63f1fd7cb11a9be144e2a5"
+    "refSerialize": "28066fcd4029a424c1db7020ae266c82"
   },
   {
-    "ref": "ans_e6668903-b1ff-447a-98af-2e5f847b1ee0",
-    "keyword": "key_aa0f3b15-3264-491a-a5c7-66c9bd574f9d",
+    "ref": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
+    "keyword": "key_6d14a843-8d8f-4083-b94b-edf0547c3685",
     "answer": "🙌 Hola bienvenido al chatbot del sanatorio San Carlos",
     "options": {
       "media": null,
@@ -23,13 +23,13 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "a7e97b6fb6eae6ea721bb311f6088806",
+    "refSerialize": "64706c380c99a6767bba80e61b874bcb",
     "from": "5492944651381"
   },
   {
-    "ref": "ans_e5ee9b1a-c268-4179-89ee-98d04dec8011",
-    "keyword": "ans_e6668903-b1ff-447a-98af-2e5f847b1ee0",
-    "answer": "Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://turnosssc.oscarsoft.me/\n👉 *discord* unirte al discord",
+    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
+    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
+    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
     "options": {
       "media": null,
       "buttons": [],
@@ -38,262 +38,17 @@
       "delay": 0,
       "idle": null,
       "ref": null,
-      "nested": [
-        {
-          "ref": "key_fb7435f2-2976-4c24-8b6f-1682491e7f6a",
-          "keyword": [
-            "doc",
-            "documentacion",
-            "documentación"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "f15c5b8220075276f0a11610f81f298f"
-        },
-        {
-          "ref": "ans_6579cd53-1869-474b-8239-08ea7e37b098",
-          "keyword": "key_fb7435f2-2976-4c24-8b6f-1682491e7f6a",
-          "answer": "📄 Aquí encontras las documentación recuerda que puedes mejorarla\nhttps://bot-whatsapp.netlify.app/\n\n*2* Para siguiente paso.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "keyword": [
-                  "2",
-                  "siguiente"
-                ],
-                "options": {
-                  "sensitive": false,
-                  "regex": false
-                },
-                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
-              },
-              {
-                "ref": "ans_7b750881-db28-4aa5-b548-8a0146d4e4be",
-                "keyword": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "answer": "📄 Aquí tenemos el flujo secundario",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "694a1f0bc5b028ac7090fed42e221662"
-              }
-            ],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "afe6ab54728d31004f9bbc909384cb4c"
-        },
-        {
-          "ref": "key_2373611e-4aa4-419d-bdb9-dec02249ff9c",
-          "keyword": [
-            "gracias",
-            "grac"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "1fe6b9002925caf13f444479e73d4434"
-        },
-        {
-          "ref": "ans_3feca5ff-a882-411d-9a69-aeffa182ccb0",
-          "keyword": "key_2373611e-4aa4-419d-bdb9-dec02249ff9c",
-          "answer": "🚀 Puedes aportar tu granito de arena a este proyecto\n[*opencollective*] https://opencollective.com/bot-whatsapp\n[*buymeacoffee*] https://www.buymeacoffee.com/leifermendez\n[*patreon*] https://www.patreon.com/leifermendez\n\n*2* Para siguiente paso.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "keyword": [
-                  "2",
-                  "siguiente"
-                ],
-                "options": {
-                  "sensitive": false,
-                  "regex": false
-                },
-                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
-              },
-              {
-                "ref": "ans_7b750881-db28-4aa5-b548-8a0146d4e4be",
-                "keyword": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "answer": "📄 Aquí tenemos el flujo secundario",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "694a1f0bc5b028ac7090fed42e221662"
-              }
-            ],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "da073471acedcf9a8db2daa0641c5d88"
-        },
-        {
-          "ref": "key_fdff288b-1dcb-48de-a412-972ca0ddddea",
-          "keyword": [
-            "tutorial",
-            "tuto"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "5155dd58eba463ddd0effa966e7db620"
-        },
-        {
-          "ref": "ans_072e473e-7ceb-4424-b139-9bfe5f83ca55",
-          "keyword": "key_fdff288b-1dcb-48de-a412-972ca0ddddea",
-          "answer": "🙌 Aquí encontras un ejemplo rapido\nhttps://bot-whatsapp.netlify.app/docs/example/\n\n*2* Para siguiente paso.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "keyword": [
-                  "2",
-                  "siguiente"
-                ],
-                "options": {
-                  "sensitive": false,
-                  "regex": false
-                },
-                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
-              },
-              {
-                "ref": "ans_7b750881-db28-4aa5-b548-8a0146d4e4be",
-                "keyword": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "answer": "📄 Aquí tenemos el flujo secundario",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "694a1f0bc5b028ac7090fed42e221662"
-              }
-            ],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "10bd7741f72f00fdaf6bc9afe0a65d64"
-        },
-        {
-          "ref": "key_0b4e0047-247b-4f87-8322-dbaaa118b498",
-          "keyword": [
-            "discord"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "be744c19342592b913373a1f8728649c"
-        },
-        {
-          "ref": "ans_5b126d90-20a1-4db6-b11c-9fb4e6fc5e7f",
-          "keyword": "key_0b4e0047-247b-4f87-8322-dbaaa118b498",
-          "answer": "🤪 Únete al discord\nhttps://link.codigoencasa.com/DISCORD\n\n*2* Para siguiente paso.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "keyword": [
-                  "2",
-                  "siguiente"
-                ],
-                "options": {
-                  "sensitive": false,
-                  "regex": false
-                },
-                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
-              },
-              {
-                "ref": "ans_7b750881-db28-4aa5-b548-8a0146d4e4be",
-                "keyword": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "answer": "📄 Aquí tenemos el flujo secundario",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "694a1f0bc5b028ac7090fed42e221662"
-              }
-            ],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "d7fc5943c87fe39040739f253fc14dd5"
-        }
-      ],
+      "nested": [],
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "6e09b502b328640e960e325cea30ca6d",
+    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
     "from": "5492944651381"
   },
   {
-    "ref": "ans_e5ee9b1a-c268-4179-89ee-98d04dec8011",
-    "keyword": "ans_e6668903-b1ff-447a-98af-2e5f847b1ee0",
-    "answer": "Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://turnosssc.oscarsoft.me/\n👉 *discord* unirte al discord",
+    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
+    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
+    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
     "options": {
       "media": null,
       "buttons": [],
@@ -302,256 +57,141 @@
       "delay": 0,
       "idle": null,
       "ref": null,
-      "nested": [
-        {
-          "ref": "key_fb7435f2-2976-4c24-8b6f-1682491e7f6a",
-          "keyword": [
-            "doc",
-            "documentacion",
-            "documentación"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "f15c5b8220075276f0a11610f81f298f"
-        },
-        {
-          "ref": "ans_6579cd53-1869-474b-8239-08ea7e37b098",
-          "keyword": "key_fb7435f2-2976-4c24-8b6f-1682491e7f6a",
-          "answer": "📄 Aquí encontras las documentación recuerda que puedes mejorarla\nhttps://bot-whatsapp.netlify.app/\n\n*2* Para siguiente paso.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "keyword": [
-                  "2",
-                  "siguiente"
-                ],
-                "options": {
-                  "sensitive": false,
-                  "regex": false
-                },
-                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
-              },
-              {
-                "ref": "ans_7b750881-db28-4aa5-b548-8a0146d4e4be",
-                "keyword": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "answer": "📄 Aquí tenemos el flujo secundario",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "694a1f0bc5b028ac7090fed42e221662"
-              }
-            ],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "afe6ab54728d31004f9bbc909384cb4c"
-        },
-        {
-          "ref": "key_2373611e-4aa4-419d-bdb9-dec02249ff9c",
-          "keyword": [
-            "gracias",
-            "grac"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "1fe6b9002925caf13f444479e73d4434"
-        },
-        {
-          "ref": "ans_3feca5ff-a882-411d-9a69-aeffa182ccb0",
-          "keyword": "key_2373611e-4aa4-419d-bdb9-dec02249ff9c",
-          "answer": "🚀 Puedes aportar tu granito de arena a este proyecto\n[*opencollective*] https://opencollective.com/bot-whatsapp\n[*buymeacoffee*] https://www.buymeacoffee.com/leifermendez\n[*patreon*] https://www.patreon.com/leifermendez\n\n*2* Para siguiente paso.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "keyword": [
-                  "2",
-                  "siguiente"
-                ],
-                "options": {
-                  "sensitive": false,
-                  "regex": false
-                },
-                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
-              },
-              {
-                "ref": "ans_7b750881-db28-4aa5-b548-8a0146d4e4be",
-                "keyword": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "answer": "📄 Aquí tenemos el flujo secundario",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "694a1f0bc5b028ac7090fed42e221662"
-              }
-            ],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "da073471acedcf9a8db2daa0641c5d88"
-        },
-        {
-          "ref": "key_fdff288b-1dcb-48de-a412-972ca0ddddea",
-          "keyword": [
-            "tutorial",
-            "tuto"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "5155dd58eba463ddd0effa966e7db620"
-        },
-        {
-          "ref": "ans_072e473e-7ceb-4424-b139-9bfe5f83ca55",
-          "keyword": "key_fdff288b-1dcb-48de-a412-972ca0ddddea",
-          "answer": "🙌 Aquí encontras un ejemplo rapido\nhttps://bot-whatsapp.netlify.app/docs/example/\n\n*2* Para siguiente paso.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "keyword": [
-                  "2",
-                  "siguiente"
-                ],
-                "options": {
-                  "sensitive": false,
-                  "regex": false
-                },
-                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
-              },
-              {
-                "ref": "ans_7b750881-db28-4aa5-b548-8a0146d4e4be",
-                "keyword": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "answer": "📄 Aquí tenemos el flujo secundario",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "694a1f0bc5b028ac7090fed42e221662"
-              }
-            ],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "10bd7741f72f00fdaf6bc9afe0a65d64"
-        },
-        {
-          "ref": "key_0b4e0047-247b-4f87-8322-dbaaa118b498",
-          "keyword": [
-            "discord"
-          ],
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "be744c19342592b913373a1f8728649c"
-        },
-        {
-          "ref": "ans_5b126d90-20a1-4db6-b11c-9fb4e6fc5e7f",
-          "keyword": "key_0b4e0047-247b-4f87-8322-dbaaa118b498",
-          "answer": "🤪 Únete al discord\nhttps://link.codigoencasa.com/DISCORD\n\n*2* Para siguiente paso.",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "ref": null,
-            "nested": [
-              {
-                "ref": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "keyword": [
-                  "2",
-                  "siguiente"
-                ],
-                "options": {
-                  "sensitive": false,
-                  "regex": false
-                },
-                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
-              },
-              {
-                "ref": "ans_7b750881-db28-4aa5-b548-8a0146d4e4be",
-                "keyword": "key_a1792be4-3a3e-45a0-a4dd-1e1c99aa9d3d",
-                "answer": "📄 Aquí tenemos el flujo secundario",
-                "options": {
-                  "media": null,
-                  "buttons": [],
-                  "capture": false,
-                  "child": null,
-                  "delay": 0,
-                  "idle": null,
-                  "ref": null,
-                  "nested": [],
-                  "keyword": {},
-                  "callback": false
-                },
-                "refSerialize": "694a1f0bc5b028ac7090fed42e221662"
-              }
-            ],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "d7fc5943c87fe39040739f253fc14dd5"
-        }
-      ],
+      "nested": [],
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "6e09b502b328640e960e325cea30ca6d",
+    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
+    "from": "5492944651381"
+  },
+  {
+    "ref": "3023f007-755a-4a4a-a317-e6b8db577f28",
+    "keyword": "5cea52952fe7458d1d0c0aa44127fddf",
+    "answer": "H",
+    "options": {},
+    "from": "5492944651381",
+    "refSerialize": "ff1074a08d544026a56e516f49298f06"
+  },
+  {
+    "ref": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
+    "keyword": "key_6d14a843-8d8f-4083-b94b-edf0547c3685",
+    "answer": "🙌 Hola bienvenido al chatbot del sanatorio San Carlos",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "64706c380c99a6767bba80e61b874bcb",
+    "from": "5492944651381"
+  },
+  {
+    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
+    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
+    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
+    "from": "5492944651381"
+  },
+  {
+    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
+    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
+    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
+    "from": "5492944651381"
+  },
+  {
+    "ref": "2a23d646-15b9-498d-87ea-33c51729dd40",
+    "keyword": "5cea52952fe7458d1d0c0aa44127fddf",
+    "answer": "V",
+    "options": {},
+    "from": "5492944651381",
+    "refSerialize": "4eca7f9ec6833c7d1f854e16eed45070"
+  },
+  {
+    "ref": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
+    "keyword": "key_6d14a843-8d8f-4083-b94b-edf0547c3685",
+    "answer": "🙌 Hola bienvenido al chatbot del sanatorio San Carlos",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "64706c380c99a6767bba80e61b874bcb",
+    "from": "5492944651381"
+  },
+  {
+    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
+    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
+    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
+    "from": "5492944651381"
+  },
+  {
+    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
+    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
+    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
     "from": "5492944651381"
   }
 ]
