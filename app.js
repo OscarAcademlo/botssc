@@ -17,7 +17,7 @@ const flowPrincipal = addKeyword(EVENTS.WELCOME)
     .addAnswer(
         [
             '👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/',
-            '👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ ',
+            '👉 Para pedir un turno con operadora ir a este link http://turnosssc.oscarsoft.me/ ',
             '👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381',
             '👉 Gracias por contactar con el sanatorio',
         ],
