@@ -1,197 +1,29 @@
 [
   {
-    "ref": "f14c7d8d-56e0-4b3d-8628-30fa7fdb5319",
-    "keyword": "0082c95c9d95ac62df65d20a629b923f",
-    "answer": "Y",
+    "ref": "38ffd94b-896a-456c-80e3-78813bf59223",
+    "keyword": "b52225f9dc2bece8512cdc13144ec5aa",
+    "answer": "j",
     "options": {},
     "from": "5492944651381",
-    "refSerialize": "28066fcd4029a424c1db7020ae266c82"
+    "refSerialize": "65295c84d2134fbd570e80dfcba56150"
   },
   {
-    "ref": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
-    "keyword": "key_6d14a843-8d8f-4083-b94b-edf0547c3685",
-    "answer": "🙌 Hola bienvenido al chatbot del sanatorio San Carlos",
+    "ref": "ans_3498de9a-2c6e-4b71-8ac3-08456cbf8a6e",
+    "keyword": "key_ba2ca845-15bf-4920-8319-5890a9d04636",
+    "answer": "👉 Para pedir un turno sin operadora humana ir a https://sancarlosturnos.com/#!Turn/IndicatePatient\n👉 Para pedir un turno con operadora ir a este link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
     "options": {
       "media": null,
       "buttons": [],
-      "capture": false,
+      "capture": true,
       "child": null,
       "delay": 0,
       "idle": null,
       "ref": null,
       "nested": [],
       "keyword": {},
-      "callback": false
+      "callback": true
     },
-    "refSerialize": "64706c380c99a6767bba80e61b874bcb",
-    "from": "5492944651381"
-  },
-  {
-    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
-    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
-    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
-    "from": "5492944651381"
-  },
-  {
-    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
-    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
-    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
-    "from": "5492944651381"
-  },
-  {
-    "ref": "3023f007-755a-4a4a-a317-e6b8db577f28",
-    "keyword": "5cea52952fe7458d1d0c0aa44127fddf",
-    "answer": "H",
-    "options": {},
-    "from": "5492944651381",
-    "refSerialize": "ff1074a08d544026a56e516f49298f06"
-  },
-  {
-    "ref": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
-    "keyword": "key_6d14a843-8d8f-4083-b94b-edf0547c3685",
-    "answer": "🙌 Hola bienvenido al chatbot del sanatorio San Carlos",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "64706c380c99a6767bba80e61b874bcb",
-    "from": "5492944651381"
-  },
-  {
-    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
-    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
-    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
-    "from": "5492944651381"
-  },
-  {
-    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
-    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
-    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
-    "from": "5492944651381"
-  },
-  {
-    "ref": "2a23d646-15b9-498d-87ea-33c51729dd40",
-    "keyword": "5cea52952fe7458d1d0c0aa44127fddf",
-    "answer": "V",
-    "options": {},
-    "from": "5492944651381",
-    "refSerialize": "4eca7f9ec6833c7d1f854e16eed45070"
-  },
-  {
-    "ref": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
-    "keyword": "key_6d14a843-8d8f-4083-b94b-edf0547c3685",
-    "answer": "🙌 Hola bienvenido al chatbot del sanatorio San Carlos",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "64706c380c99a6767bba80e61b874bcb",
-    "from": "5492944651381"
-  },
-  {
-    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
-    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
-    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
-    "from": "5492944651381"
-  },
-  {
-    "ref": "ans_3fdea424-112d-46a9-b651-3ebc49710aa1",
-    "keyword": "ans_fce989e8-e761-4592-a301-0c5938773aa6",
-    "answer": "👉 Para pedir un turno sin operadora humana ir a https://www.ssancarlos.com.ar/clinica/turnos/\n👉 Para pedir un turno con operadora ir a etse link http://turnosssc.oscarsoft.me/ \n👉 Para cancelar un turno hacer click aqui https://wa.me/5492944651381\n👉 Gracias por contactar con el sanatorio",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "5cea52952fe7458d1d0c0aa44127fddf",
+    "refSerialize": "47560a0de75fc431b266844914ebdf56",
     "from": "5492944651381"
   }
 ]
